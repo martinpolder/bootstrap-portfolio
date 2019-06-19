@@ -28,6 +28,10 @@ body {
   
 }
 
+h1 {
+  margin-left: 20px;
+}
+
 .jumbotron {
   background-color: #fcf3cf;
 }
@@ -69,3 +73,26 @@ h6 {
 }
 
 
+/* Media Queries */
+
+
+@media screen and (max-width: 960px) {
+  .card-columns {
+   
+    column-count: 1;
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+ 
+    max-width: 80%;
+
+  }
+
+  .card-columns {
+   
+    column-count: ;
+  }
+}
