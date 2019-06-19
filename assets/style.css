@@ -89,7 +89,7 @@ h6 {
 @media screen and (max-width: 768px) {
  
  body {
-   width: 90%;
+   width: 100%;
  }
  
   .container {
@@ -107,7 +107,7 @@ h6 {
 @media screen and (max-width: 640px) {
   
   body {
-    width: 90%;
+    width: 100%;
   }
 
  
@@ -127,7 +127,7 @@ h6 {
 @media screen and (max-width: 480px) {
   
   body {
-    width: 90%;
+    width: 100%;
   }
 
  
