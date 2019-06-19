@@ -13,6 +13,8 @@ nav {
   border-bottom: 6px solid #4a4b50;
 }
 
+.buttonbar 
+{margin-right: 0;}
 
 .btn-lg:hover{
   background-color: #fcf3cf;
@@ -85,21 +87,35 @@ h6 {
 }
 
 @media screen and (max-width: 768px) {
+ 
+ body {
+   width: 730px;
+ }
+ 
   .container {
  
-    max-width: 80%;
+    max-width: 100%;
 
+  }
+  
+
+
+
+}
+
+
+@media screen and (max-width: 640px) {
+  
+  body {
+    width: 600px;
   }
 
  
-   
-    
-}
-
-@media screen and (max-width: 640px) {
+  
   .container {
  
-    max-width: 80%;
+    max-width: 100%;
+    
 
   }
 
