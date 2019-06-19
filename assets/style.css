@@ -14,7 +14,7 @@ nav {
 }
 
 .buttonbar 
-{margin-right: 0;}
+{margin-left: 10px;}
 
 .btn-lg:hover{
   background-color: #fcf3cf;
@@ -108,6 +108,26 @@ h6 {
   
   body {
     width: 600px;
+  }
+
+ 
+  
+  .container {
+ 
+    max-width: 100%;
+    
+
+  }
+
+  
+   
+    
+}
+
+@media screen and (max-width: 480px) {
+  
+  body {
+    width: 420px;
   }
 
  
