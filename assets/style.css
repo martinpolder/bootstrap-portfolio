@@ -47,9 +47,28 @@ h1 {
   color: #fcf3cf;
 }
 
+hr {
+  background-color: #fcf3cf;
+  width: 60%;
+  opacity: .5;
+}
+
 .card {
   background-color:  #031a26;
   border: 2px solid  #fcf3cf;
+}
+
+.imgtile {
+  margin-top: 5%;
+ max-width: 90%;
+ border-radius: 10px;
+}
+
+.hubicon
+{
+  margin-top: 5%;
+  max-width: 60%;
+  border-radius: 10px;
 }
 
 
